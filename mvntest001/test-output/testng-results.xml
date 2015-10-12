@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17301" started-at="2015-10-12T15:39:23Z" finished-at="2015-10-12T15:39:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17301" started-at="2015-10-12T15:39:23Z" finished-at="2015-10-12T15:39:40Z">
+      <class name="com.imdb.tests.ui.ChartTopNg">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.imdb.tests.ui.ChartTopNg@4103bc02]" name="init" is-config="true" duration-ms="8967" started-at="2015-10-12T18:39:23Z" finished-at="2015-10-12T18:39:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="checkThatAtLeastOneMoveDisplayedIfUsingSortBySelectorAndAscendDescendControl()[pri:0, instance:com.imdb.tests.ui.ChartTopNg@4103bc02]" name="checkThatAtLeastOneMoveDisplayedIfUsingSortBySelectorAndAscendDescendControl" duration-ms="972" started-at="2015-10-12T18:39:32Z" finished-at="2015-10-12T18:39:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkThatAtLeastOneMoveDisplayedIfUsingSortBySelectorAndAscendDescendControl -->
+        <test-method status="PASS" signature="checkThatAtLeastOneMoveDisplayedWhenChangingSortBySelector()[pri:0, instance:com.imdb.tests.ui.ChartTopNg@4103bc02]" name="checkThatAtLeastOneMoveDisplayedWhenChangingSortBySelector" duration-ms="4329" started-at="2015-10-12T18:39:33Z" finished-at="2015-10-12T18:39:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkThatAtLeastOneMoveDisplayedWhenChangingSortBySelector -->
+        <test-method status="PASS" signature="checkThatAtLeastOneMovieWhenClickingTopMovies()[pri:0, instance:com.imdb.tests.ui.ChartTopNg@4103bc02]" name="checkThatAtLeastOneMovieWhenClickingTopMovies" duration-ms="3011" started-at="2015-10-12T18:39:37Z" finished-at="2015-10-12T18:39:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkThatAtLeastOneMovieWhenClickingTopMovies -->
+        <test-method status="PASS" signature="closeAll()[pri:0, instance:com.imdb.tests.ui.ChartTopNg@4103bc02]" name="closeAll" is-config="true" duration-ms="6" started-at="2015-10-12T18:39:40Z" finished-at="2015-10-12T18:39:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAll -->
+      </class> <!-- com.imdb.tests.ui.ChartTopNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
